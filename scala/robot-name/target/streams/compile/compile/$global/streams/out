@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/kos/Exercism/scala/robot-name/src/main/scala/Robot.scala:25:21: value += is not a member of Set[String][0m
+[0m[[0m[31merror[0m] [0m[0m    RobotNames.used += robotName[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

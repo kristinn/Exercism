@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/kos/Exercism/scala/sum-of-multiples/src/main/scala/SumOfMultiples.scala:3:30: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m    factors.reduce((a, b) => )[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kos/Exercism/scala/sum-of-multiples/src/main/scala/SumOfMultiples.scala:4:3: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
